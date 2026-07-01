@@ -1,0 +1,1 @@
+{"total":2,"items":[{"uid":"01a30d73aa225d1599c9794ed9cbc6cc","name":"Requests al backend del Ecommerce","statistic":{"failed":0,"broken":1,"skipped":12,"passed":0,"unknown":0,"total":13}},{"uid":"d7c7f3351e41584f02b416fea9bedc67","name":"Home del Ecommerce","statistic":{"failed":0,"broken":0,"skipped":1,"passed":0,"unknown":0,"total":1}}]}
